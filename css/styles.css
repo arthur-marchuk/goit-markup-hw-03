@@ -322,4 +322,8 @@ a {
 .contacts {
   font-style: normal;
 }
+.footer a {
+  display: block;
+  margin-bottom: 16px;
+}
 /*footer*/ /*footer*/ /*footer*/ /*footer*/ /*footer*/ /*footer*/
